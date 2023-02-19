@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlambo3&label=Profile%20views&color=0e75b6&style=flat" alt="vlambo3" /> </p>
 
-<h3>I'm an Accountant and Java Developer. I consider myself a persevering and methodical person, with an analytical thinking. I'm curious and clever. Multidisciplinary and proactive. I also like challenges and I value the collaborative work that prioritizes team spirit and trust. I'm interested in increasing my knowledge and participating in new projects!**</h3>
+<h3>I'm an Accountant and Java Developer. I consider myself a persevering and methodical person, with an analytical thinking. I'm curious and clever. Multidisciplinary and proactive. I also like challenges and I value the collaborative work that prioritizes team spirit and trust. I'm interested in increasing my knowledge and participating in new projects!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
