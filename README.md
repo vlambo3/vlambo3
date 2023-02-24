@@ -13,7 +13,7 @@
  <a href="https://www.leetcode.com/https://leetcode.com/vlambo3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vlambo3/" height="30" width="40" /></a>
  <a href="https://discord.gg/Vanina#4264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vanina#4264" height="30" width="40" /></a> 
  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/21281126/vanina-godoy?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
